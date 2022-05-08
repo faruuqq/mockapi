@@ -12,9 +12,11 @@
       }
     },
     "User": {
-        "string": [
-            "Thor",
-            "Loki"
-        ]
+        "body": {
+            "string": [
+                "Thor",
+                "Loki"
+            ]
+        }
     }
   }
