@@ -10,5 +10,11 @@
       "post": {
         "belongsTo": "Post"
       }
+    },
+    "User": {
+        "string": [
+            "Thor",
+            "Loki"
+        ]
     }
   }
